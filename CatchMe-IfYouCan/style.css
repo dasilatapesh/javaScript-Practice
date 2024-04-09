@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#box{
+    height: 80px;
+    width: 80px;
+    background-color: purple;
+    position: relative;
+}
+
+#box:hover{
+    cursor: pointer;
+}
+
+#box span{
+    color:white;
+    position: relative;
+    top: 38%;
+    left: 10%;
+}
